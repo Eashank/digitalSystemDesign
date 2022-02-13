@@ -1,0 +1,7 @@
+v 4
+file . "full_adder_testbench.vhd" "a17a3b27a45886f23cd256010d842170180d6cb4" "20220213013139.537":
+  entity full_adder_testbench at 1( 0) + 0 on 21;
+  architecture behavior of full_adder_testbench at 7( 102) + 0 on 22;
+file . "full_adder.vhd" "76ac4f3c7a6b38df3bd0025f42913e800ab786f6" "20220213013121.801":
+  entity full_adder at 1( 0) + 0 on 19;
+  architecture behavioral of full_adder at 13( 223) + 0 on 20;
