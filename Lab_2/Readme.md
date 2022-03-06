@@ -1,5 +1,5 @@
-##The pictures of the nexus board running the hex digit counter.
-#Part one of the lab
+## The pictures of the nexus board running the hex digit counter.
+# Part one of the lab
 
 ![IMG_1980](https://user-images.githubusercontent.com/57019745/156906034-93b9e889-6102-43dd-8667-de29019fcbb2.jpeg)
 
@@ -9,7 +9,7 @@
 
 ![IMG_1983](https://user-images.githubusercontent.com/57019745/156906054-e225ac7d-1eb9-4144-9227-1f110d6f8614.jpeg)
 
-#Part two of the lab
+# Part two of the lab
 
 ![IMG_1991](https://user-images.githubusercontent.com/57019745/156906128-8a09f227-a9e1-428c-9c1f-6e5d97c04bbf.jpeg)
 
